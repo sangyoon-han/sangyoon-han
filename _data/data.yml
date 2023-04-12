@@ -53,7 +53,7 @@ sidebar:
         - item: Cooking
           link:
 
-career-profile: sadf
+career-profile: 
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
@@ -62,7 +62,7 @@ career-profile: sadf
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education: asdf
+education: 
     title: Education
     info:
       - degree: MSc in Computer Science
@@ -87,7 +87,7 @@ education: asdf
           pretium quis, sem.
             - Bullet point
             - Bullet point
-experiences: asdf
+experiences: 
     title: Experiences
     info:
       - role: Lead Developer
