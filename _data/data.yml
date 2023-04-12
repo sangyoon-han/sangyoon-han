@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sangyoon Han
     tagline: Ph. D. Student
-    avatar: han_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: han_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: han0209@postech.ac.kr
@@ -29,17 +29,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1rxKbF0rSnSlFER8Guihm6PCNztPkl98j/view
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
 
-        - idiom: French
-          level: Professional
+    #     - idiom: French
+    #       level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #     - idiom: Spanish
+    #       level: Professional
 
     interests:
       title: Interests
