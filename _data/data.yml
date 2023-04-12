@@ -53,22 +53,22 @@ sidebar:
         - item: Cooking
           link:
 
-career-profile:
+career-profile: sadf
     title: Career Profile
-    summary: |asdfasdfasf
+    summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
+education: asdf
     title: Education
     info:
       - degree: MSc in Computer Science
         university: University of London
         time: 2011 - 2012
-        details: |asdfasdfasdfas
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -87,7 +87,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-experiences:
+experiences: asdf
     title: Experiences
     info:
       - role: Lead Developer
